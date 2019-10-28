@@ -20,7 +20,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-TD/1gdStKo77Iu1A+WNb+2YoRJv7l1hZVO0/0h+eJ5wyGxiTvIbLRko1dQ1jEa9w5BK3poi18st9OPel71zK8A==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-94d2de65a56b07e193e50e91873678b6.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-1N4+QlbmRp6tyqxbm0KgsAq2CEnAm9g3BY5xUsD38O+IUdydhO7ltbRnpR2Vn4g5SXipGWiiwQO1HUYLDV136Q==" rel="stylesheet" href="https://github.githubassets.com/assets/site-09367dd1ae1784b858e71c8471ca0949.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-cK5dmbRZaqw0tWOJJx/cJUjbSz0kLC+skyb7Fk/BxV5rwEKjxsy0jKgajdbKyco78S7ww/EX6QFY0Pyc4Iv6xA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-532e3474a82777f5619fad79f6e9e62a.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-s/fszKZ5jV9+tAHibuwhvymgy78cB49lbU1L/E40XqZNE6sBv07dSOCEz7I1n45OD2XXg8mUCI2Ub+pR6AegmA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-3c4881237e97cb689271ee2f91e36269.css" />
     
     
     
@@ -40,7 +40,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
   
-  <meta name="request-id" content="C1E0:1C4E:DFBCCC:19C8699:5DB06804" data-pjax-transient>
+  <meta name="request-id" content="BFB0:7065:73931E:D87881:5DB4D1BA" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C1E0:1C4E:DFBCCC:19C8699:5DB06804" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="7053657970415003652" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="BFB0:7065:73931E:D87881:5DB4D1BA" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="2597980432787362234" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -69,13 +69,13 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZjA2MjBhYjJmODRiZjFiYTc5MmY1YmZkNzBhMDRmZmFlNmQ4MGVlNzQ1OGU3Y2NjMmVkNWNlMzM4OWQ4NDgwZHx7InJlbW90ZV9hZGRyZXNzIjoiMTMuNTguMTIzLjQiLCJyZXF1ZXN0X2lkIjoiQzFFMDoxQzRFOkRGQkNDQzoxOUM4Njk5OjVEQjA2ODA0IiwidGltZXN0YW1wIjoxNTcxODQyMDUyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="ODk2OGU1MmI2ZWViY2NjMGFiYTg2NThiYzlkM2UzZDJlMzlkMmVmMGQ1YzNiMTIwNThiZmQxNTM0MjVlOGFjMXx7InJlbW90ZV9hZGRyZXNzIjoiMy4xNi4xNDkuODgiLCJyZXF1ZXN0X2lkIjoiQkZCMDo3MDY1OjczOTMxRTpEODc4ODE6NURCNEQxQkEiLCJ0aW1lc3RhbXAiOjE1NzIxMzEyNTgsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="ACTIONS_V2_ON_MARKETPLACE,MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS">
 
-  <meta name="html-safe-nonce" content="38cc85de3711d1786c215b02459cc438fd896e5f">
+  <meta name="html-safe-nonce" content="bb0fd3713b9652782382802e13569ed03ea57587">
 
-  <meta http-equiv="x-pjax-version" content="105337c56b308956a9edd162e83483c9">
+  <meta http-equiv="x-pjax-version" content="eebadb79980e31602c9071d050b11f46">
   
 
       <link href="https://github.com/linuxacademy/content-ssce-files/commits/master.atom" rel="alternate" title="Recent Commits to content-ssce-files:master" type="application/atom+xml">
@@ -139,7 +139,7 @@
         <div class="d-flex flex-items-center">
             <a href="/join?source=header-repo"
               class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;C1E0:1C4E:DFBCCC:19C8699:5DB06804&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="873ce7c08b4f4fad204f63d617fe181eeb51fe96110695fdd37e72fdafb49328"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;BFB0:7065:73931E:D87881:5DB4D1BA&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="44ce3e32bf611311f92265cd47466a8fd5ed08503a334ac481edbd7ecc169cb2"
               data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
               Sign&nbsp;up
             </a>
@@ -282,7 +282,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=KsfIluVDZzf6A7GrviITmurQ12oJyqD6QOe3MNB9jffd9hyynOlnAForZjtnq4uy0oXi4pJAJ7KdqqoVW3CaAw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=KRS4U4vr9nlbMXhe+q5GLCMFb0jl6VWXh3h5N2U9mbvW3dLepy8VDkpA5r+palTfL405cuTE/eeBdAwJIKDWgw=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -409,13 +409,13 @@
 
         <a href="/login?return_to=%2Flinuxacademy%2Fcontent-ssce-files%2Fblob%2Fmaster%2Fmysqld.cnf"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;C1E0:1C4E:DFBCCC:19C8699:5DB06804&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d44ec9717ca427474b9d2d5bbbf5adb604341cc493da5ab9f30c9b8193e3554a"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;BFB0:7065:73931E:D87881:5DB4D1BA&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1c4c1d81d1dd80543154feb590bb8a07d8dca6bc39f5aa891fe4d6c3319147d8"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
           <a href="/join?source=header-repo&amp;source_repo=linuxacademy%2Fcontent-ssce-files"
             class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;C1E0:1C4E:DFBCCC:19C8699:5DB06804&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d44ec9717ca427474b9d2d5bbbf5adb604341cc493da5ab9f30c9b8193e3554a"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;BFB0:7065:73931E:D87881:5DB4D1BA&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1c4c1d81d1dd80543154feb590bb8a07d8dca6bc39f5aa891fe4d6c3319147d8"
             data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">
             Sign&nbsp;up
           </a>
@@ -465,7 +465,7 @@
 
   <li>
     
-  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;C1E0:1C4E:DFBCCC:19C8699:5DB06804&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c278209dab046515d7d78253e1d5f6f3c40555a73e55a053eac0a9254fcb272d" href="/login?return_to=%2Flinuxacademy%2Fcontent-ssce-files">
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;BFB0:7065:73931E:D87881:5DB4D1BA&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0f8bd628f982b3c328ac05566acd12a8363e8c627c79411d2eee19e462150714" href="/login?return_to=%2Flinuxacademy%2Fcontent-ssce-files">
     <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
     Watch
 </a>    <a class="social-count" href="/linuxacademy/content-ssce-files/watchers"
@@ -476,7 +476,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:133823242,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;C1E0:1C4E:DFBCCC:19C8699:5DB06804&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0db242cb3281aec3f56282206e310886b5de3391aba2e872d228ce95aaeb8bad" href="/login?return_to=%2Flinuxacademy%2Fcontent-ssce-files">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:133823242,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;BFB0:7065:73931E:D87881:5DB4D1BA&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ac9645cd3feaae789342130acf17b68b5b373557f61c53aed58f0b13e41c29a5" href="/login?return_to=%2Flinuxacademy%2Fcontent-ssce-files">
       <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
       Star
 </a>
@@ -488,7 +488,7 @@
   </li>
 
   <li>
-      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:133823242,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;C1E0:1C4E:DFBCCC:19C8699:5DB06804&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="87face748b8f2d211cc314d798997662445047e934e7c3ae111bcabe4a807908" href="/login?return_to=%2Flinuxacademy%2Fcontent-ssce-files">
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:133823242,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;BFB0:7065:73931E:D87881:5DB4D1BA&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f63532f5beb2380a77763d9e0968d18eba61c0e266d39d3eb8890a305e735251" href="/login?return_to=%2Flinuxacademy%2Fcontent-ssce-files">
         <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
         Fork
 </a>
@@ -620,13 +620,13 @@
           <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="WRKx+JlVciSzkaIDUQNQKTGc8NOGWKSft3tTJEdaEU67oIMeHl+heFxLvbp5ktLrSseesooHeKemhCfP4NW6bA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/prompt_dismissals/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="9CixqfP5vIKdtDnrVDjVHop2Fhzjil+JpYpee5OL5D3shB6IIMJ4ZmmLt6RaWbtZqDWfFBTGiWlR984X0fIVTA==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
 </form>          <h3 class="pt-2">Join GitHub today</h3>
           <p class="col-6 mx-auto">GitHub is home to over 40 million developers working together to host and review code, manage projects, and build software together.</p>
-          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;C1E0:1C4E:DFBCCC:19C8699:5DB06804&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d225cc2d421b9e0740b233fecda90f4d31e89eea3f410957d22968b8ac36d1ff" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=linuxacademy%2Fcontent-ssce-files">Sign up</a>
+          <a class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;client_id&quot;:null,&quot;originating_request_id&quot;:&quot;BFB0:7065:73931E:D87881:5DB4D1BA&quot;,&quot;originating_url&quot;:&quot;https://github.com/linuxacademy/content-ssce-files/blob/master/mysqld.cnf&quot;,&quot;referrer&quot;:null,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f098afafd7322cffec5102d477d3cdf3a131dced41eb0e559f358e07b511c98c" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" href="/join?source=prompt-blob-show&amp;source_repo=linuxacademy%2Fcontent-ssce-files">Sign up</a>
         </div>
       </div>
     </div>
@@ -1210,7 +1210,7 @@
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.30696s from unicorn-c85775466-v22d8">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.24810s from unicorn-7c4996bb65-v55z5">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
@@ -1247,10 +1247,10 @@
   </div>
 
 
-    <script crossorigin="anonymous" integrity="sha512-WPwDO8+Yp+cueWr9TzWd/2006IVlMLiuV1+/65uv7W6eAzcCOv+xEAXjM4DZGGbQUCCeHpSkISgJTktWKMes1A==" type="application/javascript" src="https://github.githubassets.com/assets/compat-bootstrap-edde9aec.js"></script>
-    <script crossorigin="anonymous" integrity="sha512-qx4Dm2T/6T2fEgdd9QL7v2bwmWKnZCkLYip5O9kHgCyUN/0JzQ7vPQQKjQkuWcFlGl3pfYMeagurZgSnjSOMTw==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-564f5a6e.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-/voemwmBYm1nFRvfJlItU0kl5VSw1fWoWHofuXcW6OzEruI3UOGeJ7pyqTvN+zaazCp+H4R/JgEKES2vmtXf9w==" type="application/javascript" src="https://github.githubassets.com/assets/compat-bootstrap-2c60ee5d.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-aehfjDyZ2BA4SaTBr7sCdmtvmq3V/LTfaK/zOijZQmzOKDs+QpcgzF+WqgTYVUQdKfhcfmmSOXd5GTx9FmaKhQ==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-93f7d6c0.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-gdllLvhnzR+i34dApdr10Y775fp5SWwG1Ke+BRYxGGxuPMFcsLGOJ93wzCfBsgYSd2OtJnUZtTTHYALF4C/6qA==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-e9911286.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-WluttDR1trXe4WsPqe26HsxR11OrJTqWZwuruKqHdudWlBb9eW1eUqnku2HcMFuks88BwSLAF6DjKhAOZfKFHg==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-66c2138f.js"></script>
     
     
     

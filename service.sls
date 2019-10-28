@@ -1,4 +1,4 @@
-{% from mysql/map.jinja import mysql with context %}
+{% from "mysql/map.jinja" import mysql with context %}
 
 mysql_service_enable:
   service.running:
