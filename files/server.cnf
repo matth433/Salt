@@ -1,4 +1,4 @@
-#this files is managed by salt
+# This files is managed by salt
 # These groups are read by MariaDB server.
 # Use it for options that only the server (but not clients) should see
 #
